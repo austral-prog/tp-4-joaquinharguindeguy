@@ -13,10 +13,7 @@ def line():
     print(f'\nPara la siguiente ecuación:\n\tY = {a}X + {b}')
 
 
-    print(f'\nDados los siguientes puntos:\n\t P1 ({x1}, {P1})\n\t P2 ({x2}, {P2})')
+    print(f'\nDados los siguientes puntos:\n\tP1 ({x1}, {P1})\n\tP2 ({x2}, {P2})')
     C1= P1 - P2
     C2= x1 - x2
     c= math.sqrt(C1**2 + C2**2)
-    
-
-    print(f'\nLa distancia entre ellos es: {c}')
