@@ -19,4 +19,4 @@ def line():
     
 
     print(f'\nLa distancia entre ellos es:{c}')
-line()
+
