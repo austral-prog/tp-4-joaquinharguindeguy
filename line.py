@@ -19,6 +19,4 @@ def line():
     C1= P1 - P2
     C2= x1 - x2
     c= math.sqrt(C1**2 + C2**2)
-    
-
     print(f'\nLa distancia entre ellos es: {c}')
